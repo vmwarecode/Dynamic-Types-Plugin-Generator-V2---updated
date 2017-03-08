@@ -1,1 +1,0 @@
-# Dynamic-Types-Plugin-Generator-V2---updated
